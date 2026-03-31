@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>我的博客</title>
-    <link>http://localhost:1313/zhugexiuqi/</link>
+    <link>https://zhugexiuqi.github.io/zhugexiuqi/</link>
     <description>Recent content on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Apr 2026 01:27:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zhugexiuqi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Helloworld</title>
-      <link>http://localhost:1313/zhugexiuqi/posts/helloworld/</link>
-      <pubDate>Wed, 01 Apr 2026 01:27:56 +0800</pubDate>
-      <guid>http://localhost:1313/zhugexiuqi/posts/helloworld/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://zhugexiuqi.github.io/zhugexiuqi/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

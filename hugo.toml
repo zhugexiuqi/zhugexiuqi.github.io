@@ -1,4 +1,4 @@
-baseURL = "https://zhugexiuqi.github.io/zhugexiuqi/"   # 注意末尾斜杠！
+baseURL = "https://zhugexiuqi.github.io/"
 title = "我的博客"
 theme = "PaperMod"
 
