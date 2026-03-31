@@ -1,0 +1,12 @@
+baseURL = "https://zhugexiuqi.github.io/zhugexiuqi/"   # 注意末尾斜杠！
+title = "我的博客"
+theme = "PaperMod"
+
+# 可选：设置默认语言、分页等
+defaultContentLanguage = "zh-cn"
+paginate = 5
+
+# 主题特定配置（简单示例，后续可扩展）
+[params]
+  author = "你的名字"
+  description = "这是我的博客"
