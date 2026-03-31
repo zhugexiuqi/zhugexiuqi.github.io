@@ -6,10 +6,8 @@ theme = "PaperMod"
 defaultContentLanguage = "zh-cn"
 paginate = 5
 
-# 主题特定配置（简单示例，后续可扩展）
-[params]
-  author = "你的名字"
-  description = "这是我的博客"
+
+
 
 [menu]
   [[menu.main]]
@@ -17,3 +15,12 @@ paginate = 5
     name = "全部分类"    # 菜单上显示的文字
     url = "/categories/"  # 点击后跳转的地址
     weight = 10           # 菜单显示顺序，数字越小越靠左
+
+
+    [params]
+  # 基础信息
+  author = "你的名字"                     # 网站作者
+  description = "这是我的博客"             # 网站描述，用于SEO
+  keywords = ["博客", "技术"]             # 网站关键词
+
+    disableSpecial1stPost = true
