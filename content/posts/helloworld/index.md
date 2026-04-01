@@ -12,6 +12,9 @@ categories = ["others"]
     relative = true
 
 +++
+    asoighosaidhgoihadfoadiihgaoidhgahdogihaodighaoidhg
+
+
     这是我在我的个人博客发布的第一篇文章。像通常那样，这篇文章将记录我搭建这个静态页面的过程，这也许会对你有帮助，如果你也想要快速搭建个人博客页面的话。
 
     这个页面的原理是：一个静态网页本质上就是一个文件。而Github可以托管代码、项目资料文件，那么同样也可以托管网页内容文件！
