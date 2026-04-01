@@ -19,3 +19,18 @@
     margin-bottom: var(--gap);
     max-height: 300px; /* 或者你喜欢的任何高度 */
 }
+
+/* 设置全局中文字体，按优先级回退 */
+body {
+    font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+/* 针对代码块、标题等额外指定，确保所有文本都有字体 */
+h1, h2, h3, h4, h5, h6, .entry-title, .post-title {
+    font-family: inherit;
+}
+
+/* 如果代码块内中文也显示异常，可单独设置 */
+code, pre {
+    font-family: "SF Mono", "Fira Code", "Cascadia Code", "Noto Sans SC", monospace;
+}
